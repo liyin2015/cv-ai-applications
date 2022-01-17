@@ -9,11 +9,14 @@ Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_a
  - [Nenural Rendering](#neural-rendering)
 
 # Neural Rendering
+GANs: Synthesized images with controllable properties such as camera view points and illumination conditons
 ## Basic 2D (image to image rendering)
 * Coloring
 * Super-resolution
 * Sketch to image
 ## 2D to 3D
+*  Tech: GANs with 3D control, papers: [photoApp]
+
 ## Advanced
 * sketch to video with movements
 * 
