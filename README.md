@@ -1,1 +1,11 @@
-# cv_ai_applications
+# Awesome Computer Vision AI Applications : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome computer vision applications, accomplished with tutorial and curated list of research papers. Additionally, this is showcased in a public instagram account. 
+
+## Contributing
+Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_applications/pulls) or email (li.yin.gravity@gmail.com) to add links.
+
+## Table of Contents
+
+ - [Nenural Rendering](#neural-rendering)
+
+# Neural Rendering
