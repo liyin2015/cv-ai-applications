@@ -16,6 +16,7 @@ Curated list of papers:
 * [Shen, Yujun, et al. "Interpreting the latent space of gans for semantic face editing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html)
 * [Tewari, Ayush, et al. "Stylerig: Rigging stylegan for 3d control over portrait images." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.](https://openaccess.thecvf.com/content_CVPR_2020/html/Tewari_StyleRig_Rigging_StyleGAN_for_3D_Control_Over_Portrait_Images_CVPR_2020_paper.html)
 * [Pan, Xingang, et al. "Do 2d gans know 3d shape? unsupervised 3d shape reconstruction from 2d image gans." arXiv preprint arXiv:2011.00844 (2020).](https://arxiv.org/pdf/2011.00844)
+* [Pan, Xingang, et al. "Exploiting deep generative prior for versatile image restoration and manipulation." IEEE Transactions on Pattern Analysis and Machine Intelligence (2021).](https://arxiv.org/pdf/2003.13659.pdf%C2%A0)
 * Q&A
 > * what is a reverse graphics?
 > * controllability: (1) latent space (2) inverse graphics
@@ -23,7 +24,13 @@ Curated list of papers:
 ### Basic 2D (image to image rendering)
 * Coloring
 * Super-resolution
+
+### Advanced 2D with more controllability
 * Sketch to image
+* image to annimation
+* Gender exchange
+* Face swap
+* Aging
 ### 2D to 3D
 *  Tech: GANs with 3D control, papers: [photoApp][Controllability]
 
