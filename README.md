@@ -10,6 +10,7 @@ Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_a
 
 # Neural Rendering
 ## AI knowledge
+Tutorial(https://www.neuralrender.com/)
 GANs: Synthesized images with controllable properties such as camera view points and illumination conditons
 Curated list of papers:
 * PhotoApp:
