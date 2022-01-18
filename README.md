@@ -27,7 +27,11 @@ Curated list of papers:
 * Super-resolution
 
 ### Advanced 2D with more controllability
-* Sketch to image. Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://www.youtube.com/watch?v=y1xnvJf9Uhg)
+* Sketch to image. 
+* Text to image.
+* Segmentation to Image
+
+Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://www.youtube.com/watch?v=y1xnvJf9Uhg)
 * image to annimation
 * Gender exchange
 * Face swap
