@@ -27,7 +27,7 @@ Curated list of papers:
 * Super-resolution
 
 ### Advanced 2D with more controllability
-* Sketch to image
+* Sketch to image. Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://www.youtube.com/watch?v=y1xnvJf9Uhg)
 * image to annimation
 * Gender exchange
 * Face swap
@@ -39,5 +39,7 @@ Curated list of papers:
 
 ### Advanced
 * sketch to video with movements
-* 
+
+## Demo
+* [NVIDAI AI Playground](https://www.nvidia.com/en-us/research/ai-playground/)
 
