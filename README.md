@@ -27,15 +27,23 @@ Curated list of papers:
 * Super-resolution
 
 ### Advanced 2D with more controllability
+![Network from SPADE](images/network_from_SPADE.png)
 * Sketch to image. 
 * Text to image.
 * Segmentation to Image
-
-Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://www.youtube.com/watch?v=y1xnvJf9Uhg)
 * image to annimation
 * Gender exchange
 * Face swap
 * Aging
+
+Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://www.youtube.com/watch?v=y1xnvJf9Uhg)
+
+Landmark papers:
+
+* pix2pixHD: [Wang, Ting-Chun, et al. "High-resolution image synthesis and semantic manipulation with conditional gans." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf)
+* SPADE: [Park, Taesung, et al. "Semantic image synthesis with spatially-adaptive normalization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Semantic_Image_Synthesis_With_Spatially-Adaptive_Normalization_CVPR_2019_paper.pdf)    [code](https://github.com/NVlabs/SPADE), [GauGAN v1 demo](https://www.youtube.com/watch?v=uNv7XBngmLY)
+
+
 ### 2D to 3D
 *  Tech: GANs with 3D control, papers: [photoApp][Controllability]
 
@@ -46,4 +54,7 @@ Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://w
 
 ## Demo
 * [NVIDAI AI Playground](https://www.nvidia.com/en-us/research/ai-playground/)
+* [NVIDIA Canvas](https://blogs.nvidia.com/blog/2021/06/23/studio-canvas-app/)
+* [Nvidia GauGan2](http://gaugan.org/gaugan2/)
+
 
