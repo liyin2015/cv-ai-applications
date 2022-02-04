@@ -6,6 +6,15 @@
 * data added continuously -> continual learning
 # Model
 * CNN
+    * ResNext
+    * ResNet
+    * U-Net
 * Transformer
+    * NLP Transformer
+    * Vision Transformer
+    * Video Transformer
+    * Vision and Text Transformer
 * Encoder-Decoder
 * GAN
+    * Basic GAN
+    * Conditional GAN
