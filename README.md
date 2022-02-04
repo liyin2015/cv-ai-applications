@@ -5,8 +5,10 @@ A curated list of awesome computer vision applications, accompanioned with **Int
 Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_applications/pulls) or email (li.yin.gravity@gmail.com) to add links.
 
 ## Table of Contents
-
- - [Nenural Rendering](#neural-rendering)
+ - Image Understanding
+    - Object Detection
+    - [Face Recognition](chapters/deep_face_recognition.md)
+- [Nenural Rendering](#neural-rendering)
 
 ## Introduction to Neural Rendering
 <center><img src="images/neural_rendering_1.png" alt="neural_rendering_1" width="300" height="170" class="center"/>
