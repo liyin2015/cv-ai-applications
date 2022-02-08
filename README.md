@@ -1,5 +1,5 @@
 # Awesome Computer Vision(AI) Applications : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision applications, accompanied with **Introduction**, **landmark research papers**, and **Demos**. Applications are organized in two ways: (1) by generic applications, (2) by the enabling techniques. Besides applications, we track cool AI orgs and startups. Additionally, (1) we orgnaize datasets, models, and metrics in a section for some applications, (2) we showcase some applications a public instagram account. 
+A comprehensive list of awesome computer vision applications, accompanied with **Introduction**, **landmark research papers**, and **Demos**. Applications are organized in two ways: (1) by generic applications, (2) by the enabling techniques. Besides applications, we track cool AI orgs and startups. Additionally, (1) we orgnaize datasets, models, and metrics in a section for some applications, (2) we showcase some applications a public instagram account. 
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_applications/pulls) or email (li.yin.gravity@gmail.com) to add links.
