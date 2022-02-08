@@ -1,14 +1,18 @@
 # Awesome Computer Vision(AI) Applications : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision applications, accompanioned with **Introduction**, **landmark research papers**, and **Demos**. Additionally, (1) we orgnaize datasets, models, and metrics in a section for some applications, (2) we showcase some applications a public instagram account. 
+A curated list of awesome computer vision applications, accompanied with **Introduction**, **landmark research papers**, and **Demos**. Applications are organized in two ways: (1) by generic applications, (2) by the enabling techniques. Besides applications, we track cool AI orgs and startups. Additionally, (1) we orgnaize datasets, models, and metrics in a section for some applications, (2) we showcase some applications a public instagram account. 
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_applications/pulls) or email (li.yin.gravity@gmail.com) to add links.
+<hr>
 
-## Table of Contents
+## CV Applications organized by generic applications
  - Image Understanding
     - Object Detection
     - [Face Recognition](chapters/deep_face_recognition.md)
 - [Nenural Rendering](#neural-rendering)
+## CV applications organized by tech
+- [Visual Language Models](tech_basic/vision_language_models.md)
+<hr>
 
 ## Introduction to Neural Rendering
 <center><img src="images/neural_rendering_1.png" alt="neural_rendering_1" width="300" height="170" class="center"/>
@@ -53,7 +57,13 @@ Demo: [NVIDIA GauGAN2](http://gaugan.org/gaugan2/), [Youtube Tutorial](https://w
 * [Ramesh, Aditya, et al. "Zero-shot text-to-image generation." arXiv preprint arXiv:2102.12092 (2021).](https://arxiv.org/pdf/2102.12092)
 
 **Leveraging Vision Language models**
-* StyleGAN-NADA: [Gal, Rinon, et al. "StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators." (2021).](https://openreview.net/forum?id=8ujQ_BJ7pHZ), [github](https://github.com/rinongal/StyleGAN-nada). Similar to CycleGAN, unpaired $I \rightarrow I$ translation.
+* StyleGAN-NADA: [Gal, Rinon, et al. "StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators." (2021).](https://openreview.net/forum?id=8ujQ_BJ7pHZ), [github](https://github.com/rinongal/StyleGAN-nada). Similar to CycleGAN, unpaired $I \rightarrow I$ translation. 
+
+<!-- <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"> -->
+
+<!-- ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1) -->
+
+
 * [Patashnik, Or, et al. "Styleclip: Text-driven manipulation of stylegan imagery." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.](https://openaccess.thecvf.com/content/ICCV2021/html/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.html). #cite: 51, [StyleCLIP Demo](https://replicate.com/orpatashnik/styleclip).
 
 <!-- Curated list of SoTAs:

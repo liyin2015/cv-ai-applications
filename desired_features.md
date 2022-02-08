@@ -1,1 +1,2 @@
 1. Add citations for the landmark papers and dynamically update it.
+2. Markdown does not support latex math rendering, one work around is [Math to image](https://marketplace.visualstudio.com/items?itemName=MeowTeam.vscode-math-to-image).
