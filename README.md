@@ -12,7 +12,7 @@ Please feel free to send me [pull requests](https://github.com/liyin2015/cv_ai_a
 - [Nenural Rendering](#neural-rendering)
 ## CV applications organized by tech
 - [Visual Language Models](tech_basic/vision_language_models.md) 
-- To a future of Self-supervised learning
+- [Visual representation learning](tech_basic/visual_representation_learning.md) To a future of Self-supervised learning
 <hr>
 
 ## Introduction to Neural Rendering
